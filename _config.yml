@@ -15,7 +15,7 @@ description: >
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
+cover: "http://cvlassets.s3.amazonaws.com/jakob-owens-152227.jpg"
 logo: "assets/logo.png"
 
 # Build settings
